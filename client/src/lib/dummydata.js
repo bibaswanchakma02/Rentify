@@ -111,3 +111,33 @@ export const listdata = [
     }
   ];
   
+  export const singlePostData = 
+    {
+      id: 1,
+      title: "Spacious Family Home",
+      price: 4500,
+      images: [
+        "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+        "https://images.pexels.com/photos/276725/pexels-photo-276725.jpeg",
+        "https://images.pexels.com/photos/276726/pexels-photo-276726.jpeg",
+        "https://images.pexels.com/photos/276727/pexels-photo-276727.jpeg"
+      ],
+      bedrooms: 4,
+      bathrooms: 3,
+      size: "2500 sqft",
+      latitude: 23.8388,
+      longitude: 91.2774,
+      city: "Agartala",
+      address: "Palace Compound, Agartala, Tripura",
+      school: "Holy Cross School, Agartala",
+      bus: "Palace Compound Bus Stop",
+      restaurant: "Restaurant Rajdhani",
+      description: "A spacious family home located in the heart of Agartala's prestigious Palace Compound. It features 4 bedrooms, 3 bathrooms, a large living area, and a modern kitchen. Close to top schools and amenities."
+    }
+
+    export const userData = 
+      {
+        id: 1,
+        name: "Owner",
+        image: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
+      }
