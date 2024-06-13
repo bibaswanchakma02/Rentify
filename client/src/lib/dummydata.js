@@ -132,7 +132,7 @@ export const listdata = [
       school: "Holy Cross School, Agartala",
       bus: "Palace Compound Bus Stop",
       restaurant: "Restaurant Rajdhani",
-      description: "A spacious family home located in the heart of Agartala's prestigious Palace Compound. It features 4 bedrooms, 3 bathrooms, a large living area, and a modern kitchen. Close to top schools and amenities."
+      description: "Located in the prestigious Palace Compound of Agartala, this spacious family home combines luxury and convenience. It features four generously sized bedrooms and three modern bathrooms, perfect for a growing family. The large, open-plan living area is ideal for relaxing and entertaining, filled with natural light. The modern kitchen boasts state-of-the-art appliances and ample storage The master suite offers a tranquil retreat with an en-suite bathroom and ample closet space. Additional bedrooms are versatile and spacious. Close to top schools and amenities, this home ensures easy commutes and errands. Enjoy a luxurious lifestyle in one of Agartalas most sought-after neighborhoods."
     }
 
     export const userData = 
