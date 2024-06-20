@@ -1,0 +1,3 @@
+Backend api service has been moved to a seperate repository 
+
+Repository link - https://github.com/bibaswanchakma02/Rentify-backend
